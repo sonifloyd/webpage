@@ -722,6 +722,18 @@ AAABBB
 BBBAAA
 DDDBBBAAA
 BBBAAA
+# Can we write constructor inside interface in java?
+
+No. Interfaces does not allow constructors.
+Why interface does not have constructor? The variables inside interfaces are static final variables means constants and we can not create object fro interface so there is no need of constructor in interface that is the reason interface doesn't allow us to create constructor.
+
+
+
+# What will happens if we try to create constructor inside interfaces in java 
+
+If we try to create constructor in interface compile time error will come.
+Error description: Interfaces cannot have constructors.
+
 
 
 
