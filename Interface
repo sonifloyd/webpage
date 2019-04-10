@@ -1,5 +1,5 @@
-interface
-Can you identify the error in the below code?
+
+# Can you identify the error in the below code?
 interface A { private int i; } Ans- In interface variables are by default static ,final,public. not private
 
 -What will be the output of the following program?
